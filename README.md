@@ -1,2 +1,2 @@
-# Pinwheel
-https://pnwh.github.io
+# Moneyfin
+https://moneyfin.github.io
